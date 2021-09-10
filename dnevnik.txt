@@ -1,1 +1,2 @@
-Ovo je dnevnik jednog obicnog smrtnika
+Ovo je dnevnik jednog obicnog smrtnika.
+Ovdje pocetnik pise kako uci da programira.
